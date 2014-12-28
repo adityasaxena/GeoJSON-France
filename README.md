@@ -1,3 +1,5 @@
+#### This README.md has been preserved so that anyone looking at this knows that the code is not really forked but has been copied over from the repository at github.com/heroku/node-js-getting-started.git. I was trying out the Getting Started for NodeJS deployment for Heroku and came across this. Later, during my own needs, I just changed the remote location and added some of my content for this repo to suit me. Apologize if this causes confusion for anyone
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
